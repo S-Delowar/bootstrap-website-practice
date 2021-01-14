@@ -1,0 +1,40 @@
+.card-image{
+    height: 300px;
+    width: 300px;
+}
+.card-image-section{
+    border-radius: 10px;
+    background-color: rgb(148, 141, 141);
+}
+.card{
+    box-shadow: 1px 5px lightgray;
+    border: none;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.btn-icon{
+    height: 30px;
+    width: 30px;
+}
+.buy-now-button{
+    padding: 5px 20px;
+    background-color: rgb(130, 194, 28);
+    border: none;
+}
+.buy-now-button:hover{
+    background-color: rgb(92, 129, 17);
+}
+.logo{
+    width: 300px;
+    height: 50px;
+}
+section{
+    margin-bottom: 100px;
+}
+.margin-bottom-50{
+    margin-bottom: 50px;
+}
