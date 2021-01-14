@@ -6,12 +6,7 @@
     border-radius: 10px;
     background-color: rgb(148, 141, 141);
 }
-.card{
-    box-shadow: 1px 5px lightgray;
-    border: none;
-    border-radius: 10px;
-    padding: 20px 10px;
-}
+
 .card-footer{
     border: none;
     background-color: white;
@@ -37,4 +32,25 @@ section{
 }
 .margin-bottom-50{
     margin-bottom: 50px;
+}
+.footer-icon {
+    height: 100px;
+    width: 100px;
+    margin-right: 30px;
+}
+.footer-single-benefit{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+    padding:20px;
+    margin: 30px;
+}
+.footer-right-image img{
+    width: 700px;
+    height: 450px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;    
 }
