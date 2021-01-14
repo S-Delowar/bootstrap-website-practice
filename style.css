@@ -3,8 +3,9 @@
     width: 300px;
 }
 .card-image-section{
+    padding: 30px;
     border-radius: 10px;
-    background-color: rgb(148, 141, 141);
+    background-color: rgb(221, 214, 214);
 }
 
 .card-footer{
@@ -24,7 +25,7 @@
     background-color: rgb(92, 129, 17);
 }
 .logo{
-    width: 300px;
+    width: 350px;
     height: 50px;
 }
 section{
@@ -52,5 +53,6 @@ section{
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
-    border-radius: 10px;    
+    border-radius: 10px;
+    padding: 20px 20px;     
 }
